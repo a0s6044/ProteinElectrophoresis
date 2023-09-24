@@ -1,2 +1,2 @@
 # ProteinElectrophoresis
-Algorithms used to analyse protein electrophoresis curves
+Algorithms and figures used to analyse protein electrophoresis curves
